@@ -1,0 +1,1 @@
+{"dependencies":{"ws":"^8.18.0"},"description":"Minimal WebSocket+REST forwarding proxy so a browser-origin workbench can reach the dsh relay, whose WS Origin allowlist only permits its own site.","engines":{"node":">=22"},"name":"dsh-relay-proxy","private":true,"scripts":{"start":"node server.js"},"type":"module","version":"0.1.0"}
